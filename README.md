@@ -8,8 +8,8 @@ Se utilizó JDK 23. Y el entorno de desarrollo integrado utilizado fue IntelliJ 
 2. Dentro de las preguntas podrá ir avanzando y retrocediendo entre ellas con los botones 'Siguiente' y 'Anterior' respectivamente.
 3. Una vez llegado a la última pregunta y con sus respuestas ya listas, para finalizar la prueba, debe presionar el botón 'Finalizar', el cual le llevará a el resumen detallado de la prueba.
 4. Junto al resumen existe un botón el cual permite ir a revisar cada pregunta por si misma y ver en cuales se respondieron bien y cuales mal.
-
-**Limitaciones de la lectura del CSV**
+___
+**Limitaciones**
 1. Sólo se puede cargar un archivo de tipo comma-separated values (csv) con el nombre 'evaluacion'. Es decir, sólo se podrán revisar archivos cuyo nombre sea 'evalucion.csv'.
 2. El archivo se carga de forma automáticamente al inicializar el programa, para esto debe estar dentro de la carpeta principal del programa.
 3. El contenido del 'evaluacion.csv' debe tener un formato para la lectura de datos específica, esta debe lucir así:
