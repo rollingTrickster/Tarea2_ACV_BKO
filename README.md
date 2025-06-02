@@ -35,6 +35,6 @@ En cuanto a las opciones para 'Tipo de Pregunta' y 'Nivel de Taxonomía', se deb
 >  evaluar = Nivel de taxonomía 'evaluar'<br />
 >  crear = Nivel de taxonomía 'crear'
 
-3. Para responder una pregunta se debe marcar una opción, si quieres cambiar de opción, debes desmarcar y marcar otra opción. Si marca más de una opción al pasar de página, se guardará la última opción en haber sido marcada.
-4. Para la cantidad de opciones hay un límite sugerido de seis opciones. Pero el programa es capaz de agregar una cantidad indefinida de respuestas para responder.
-5. Las preguntas de verdadero y falso, a pesar de ser de dos opciones, son capaces de agregar más opciones de las que deberían ser.
+4. Para responder una pregunta se debe marcar una opción, si quieres cambiar de opción, debes desmarcar y marcar otra opción. Si marca más de una opción al pasar de página, se guardará la última opción en haber sido marcada.
+5. Para la cantidad de opciones hay un límite sugerido de seis opciones. Pero el programa es capaz de agregar una cantidad indefinida de respuestas para responder.
+6. Las preguntas de verdadero y falso, a pesar de ser de dos opciones, son capaces de agregar más opciones de las que deberían ser.
